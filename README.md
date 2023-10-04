@@ -1,7 +1,7 @@
 # Ruby Course Projects - [**The Odin Project Ruby Course**](theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
 
 ## Overview
-Welcome to my repository showcasing the projects I completed as part of The Odin Project's Ruby Course. This comprehensive course allowed me to dive deep into the Ruby programming language, equipping me with essential knowledge in object-oriented design, testing, and data structures.
+Welcome to my repository showcasing the projects I completed over the course of 2022 as part of The Odin Project's Ruby Course. This comprehensive course allowed me to dive deep into the Ruby programming language, equipping me with essential knowledge in object-oriented design, testing, and data structures.
 
 ## What I Learned
 
