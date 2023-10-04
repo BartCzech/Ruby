@@ -24,4 +24,4 @@ Beyond Ruby, I've gained insights into computer science fundamentals such as rec
 I've become proficient in using Git for version control. This allows me to collaborate effectively with other developers and contribute to projects seamlessly.
 
 ### Test-Driven Development (TDD)
-I've adopted a test-driven development (TDD) approach, leveraging the RSpec testing framework. This ensures that my code is robust, maintainable, and thoroughly tested. The Connect Four project, developed following TDD principles, exemplifies my commitment to delivering high-quality software.
+I've adopted a test-driven development (TDD) approach, leveraging the RSpec testing framework.
